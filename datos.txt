@@ -1,0 +1,26 @@
+Escuela de Arte Multimedial Da Vinci
+CARRERA: Diseño y Programación Web
+MATERIA: Clientes Web Mobile
+CARÁCTER DE ENTREGA: Final
+PROFESOR: Santiago Gallino
+
+ALUMNOS: Dybel, Pablo Luciano y Lugo, Orianna
+CUATRIMESTRE: 4to Cuatrimestre
+AÑO: 2026
+COMISIÓN: AP
+TURNO: Noche
+FECHA DE ENTREGA: 16/12/2026
+
+Usuarios creados de prueba:
+
+Administrador
+Usuario: admin@mipaseo.com
+Password: admin123
+
+Dueño de mascota
+Usuario: maria@gmail.com
+Password: maria123
+
+Paseador
+Usuario: pedro.martinez@email.com
+Password: pedro123
